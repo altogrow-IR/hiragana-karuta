@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Noto Sans JP",
+    sans-serif;
+  background: #fff6e3;
+  color: #3d2c1e;
+  -webkit-tap-highlight-color: transparent;
+}
